@@ -1,0 +1,27 @@
+{
+  "name": "hackathon-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LumocsNox/added.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LumocsNox/added/issues"
+  },
+  "homepage": "https://github.com/LumocsNox/added#readme",
+  "devDependencies": {
+    "vite": "^8.0.1"
+  }
+}
